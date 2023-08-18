@@ -42,6 +42,4 @@ Usage examples could include:
 References
 The implementation would follow the details provided in the original research paper:
 
-Thantharate, P. (2023). IntelligentMonitor: Empowering DevOps Environments With Advanced Monitoring and Observability. 2023 International Conference on Information Technology (ICIT).
-
 Any additional external libraries or sources used would be properly cited.
