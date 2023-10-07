@@ -2,7 +2,8 @@
 
 [**IntelligentMonitor: Empowering DevOps Environments With Advanced Monitoring and Observability**](https://ieeexplore.ieee.org/document/10226123) aims to improve monitoring and observability in complex, distributed DevOps environments by leveraging machine learning and data analytics. This repository contains a sample implementation of the IntelligentMonitor system proposed in the research paper, presented and published as part of the 11th International Conference on Information Technology (ICIT 2023).
 
-**If you use this dataset and code or any herein modified part of it in any publication, please cite these papers:** P. Thantharate, "IntelligentMonitor: Empowering DevOps Environments with Advanced Monitoring and Observability," 2023 International Conference on Information Technology (ICIT), Amman, Jordan, 2023, pp. 800-805, doi: 10.1109/ICIT58056.2023.10226123.
+**If you use this dataset and code or any herein modified part of it in any publication, please cite these papers:**
+P. Thantharate, "IntelligentMonitor: Empowering DevOps Environments with Advanced Monitoring and Observability," 2023 International Conference on Information Technology (ICIT), Amman, Jordan, 2023, pp. 800-805, doi: 10.1109/ICIT58056.2023.10226123.
 
 **For any questions, and research queries** - please reach out via [**Email**](pthanth2@gmail.com).
 
